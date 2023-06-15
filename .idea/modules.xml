@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ArrayDivider/ArrayDivider.iml" filepath="$PROJECT_DIR$/ArrayDivider/ArrayDivider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CountSevens/CountSevens.iml" filepath="$PROJECT_DIR$/CountSevens/CountSevens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RECURSION.iml" filepath="$PROJECT_DIR$/RECURSION.iml" />
+      <module fileurl="file://$PROJECT_DIR$/happyNumber/happyNumber.iml" filepath="$PROJECT_DIR$/happyNumber/happyNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/longestWorm/longestWorm.iml" filepath="$PROJECT_DIR$/longestWorm/longestWorm.iml" />
+    </modules>
+  </component>
+</project>
